@@ -96,6 +96,8 @@ lining up the 1's.
 
 ![](https://raw.github.com/DustinCSWagner/sliderule/master/docs/image02.png)
 
+## Use a Slide Rule
+
 To perform multiplication, align the first multiplier to the 1 on the D scale,
 find the second multiplier on the D scale, and read the product off of C. Let
 us compute 1 x 2 = 2. Align 2 on C to match 1 on D. Look around the scale, do
